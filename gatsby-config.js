@@ -78,5 +78,5 @@ module.exports = {
       },
     },
   ],
-  pathPrefix: "/mhphoto_serena",
+  //pathPrefix: "/mhphoto_serena",
 }
