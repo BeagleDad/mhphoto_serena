@@ -7,7 +7,7 @@
     "build": "gatsby build",
     "develop": "gatsby develop",
     "clean": "gatsby clean",
-    "deploy": "gatsby build && gh-pages -d public -b main",
+    "deploy": "gatsby build && gh-pages -d public -b main"
   },
   "dependencies": {
     "gatsby": "^2.19.21",
