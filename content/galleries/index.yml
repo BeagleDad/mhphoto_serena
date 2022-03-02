@@ -6,7 +6,13 @@
       url: ../assets/LorraineCt_2640.jpg 
     - title: Living Room
       alt: Living Room
-      url: ../assets/LorraineCt_2566.jpg
+      url: ../assets/LorraineCt_2564_4289x2854.jpg
+    - title: Kitchen
+      alt: Kitchen
+      url: ../assets/DSC_3097_3421x2274.jpg
+    - title: Range
+      alt: range
+      url: ../assets/LorraineCt_2586_3679x2448.jpg
     - title: Kitchen
       alt: Kitchen
       url: ../assets/D85_0279_03.jpg
@@ -22,9 +28,9 @@
     - title: Master Bath
       alt: Master Bath
       url: ../assets/D85_0342_04.jpg
-    - title: Great Room
-      alt: Great Room
-      url: ../assets/D85_0354_02.jpg
+    - title: Sitting Room
+      alt: Sitting Room
+      url: ../assets/DSC_1585_4023x2677.jpg
     - title: Great Room
       alt: Great Room
       url: ../assets/D85_0153_03.jpg
@@ -61,9 +67,6 @@
     - title: Master Bath
       alt: Master Bath
       url: ../assets/LorraineCt_2536.jpg
-    - title: Kitchen
-      alt: Kitchen
-      url: ../assets/DSC_3097.jpg
     - title: Stairs
       alt: Stairs
       url: ../assets/DSC_3137.jpg
