@@ -17,6 +17,11 @@ module.exports = {
         url: `/drone/`,
         type: "internal"
       },
+      {
+        name: "Virtual Staging",
+        url: `/virtual-staging/`,
+        type: "internal"
+      },
       // {
       //   name: "Pricing",
       //   url: "/prices/",
