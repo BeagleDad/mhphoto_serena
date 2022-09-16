@@ -1,9 +1,9 @@
-- name: Home
+- name: Real Estate Photos
   slug: /
   photos:
     - title: Front View
       alt: Exterior Front View
-      url: ../assets/LorraineCt_2640.jpg 
+      url: ../assets/LorraineCt_2640.jpg
     - title: Living Room
       alt: Living Room
       url: ../assets/LorraineCt_2564_4289x2854.jpg

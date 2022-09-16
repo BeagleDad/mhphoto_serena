@@ -3,24 +3,25 @@ module.exports = {
     title: `Matt Hoffman Photography`,
     description: `Beautiful, professional photographs for marketing real estate. Serving Prescott Valley, Prescott, and surrounding area.`,
     author: "Matt Hoffman",
-    image: "https://www.matthoffmanphoto.com/static/de9cd208614cdc2803b70c0cee91982f/e7136/LorraineCt_2491.webp",
+    image:
+      "https://www.matthoffmanphoto.com/static/de9cd208614cdc2803b70c0cee91982f/e7136/LorraineCt_2491.webp",
     name: `Matt Hoffman Photography`,
     tagline: `Beautiful Images for Real Estate`,
     menuLinks: [
       {
-        name: "Photo Gallery",
+        name: "Real Estate Photos",
         url: `/`,
-        type: "internal"
+        type: "internal",
       },
       {
         name: "Drone Services",
         url: `/drone/`,
-        type: "internal"
+        type: "internal",
       },
       {
         name: "Virtual Staging",
         url: `/virtual-staging/`,
-        type: "internal"
+        type: "internal",
       },
       // {
       //   name: "Pricing",
@@ -30,22 +31,27 @@ module.exports = {
       {
         name: "Home Prep",
         url: "/home-prep/",
-        type: "internal"
+        type: "internal",
       },
       {
         name: "Terms of Service",
         url: "/terms",
-        type: "internal"
+        type: "internal",
+      },
+      {
+        name: "Product Photography",
+        url: "/product",
+        type: "internal",
       },
       {
         name: "About",
         url: "/about",
-        type: "internal"
+        type: "internal",
       },
       {
         name: "Contact",
         url: "/contact-me/",
-        type: "internal"
+        type: "internal",
       },
     ],
     social: [
@@ -79,7 +85,7 @@ module.exports = {
     {
       resolve: `gatsby-theme-serena`,
       options: {
-        margin: `1`
+        margin: `3`,
       },
     },
   ],
