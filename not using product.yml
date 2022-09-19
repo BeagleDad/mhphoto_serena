@@ -1,0 +1,21 @@
+- name: Product Photos
+  slug: /products
+  photos:
+    - title: Cosmetics
+      alt: Cosmetics
+      url: ../assets/product_photos/D85_2940.jpg
+    - title: Paw Soother
+      alt: Paw Soother
+      url: ../assets/product_photos/D85_2534.jpg
+    - title: Sunglasses
+      alt: Sunglasses
+      url: ../assets/product_photos/D85_2484.jpg
+    - title: Bike Stem
+      alt: Bike Stem
+      url: ../assets/product_photos/D85_2913_01.jpg
+    - title: Tea Tree Oil
+      alt: Tea Tree Oil
+      url: ../assets/product_photos/D85_2694.jpg
+    - title: Ball Jar
+      alt: Ball Jar
+      url: ../assets/product_photos/D85_2595.jpg
