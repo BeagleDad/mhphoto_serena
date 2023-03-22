@@ -23,6 +23,11 @@ module.exports = {
         url: `/virtual-staging/`,
         type: "internal",
       },
+      {
+        name: "Headshots",
+        url: `/headshots`,
+        type: "internal",
+      },
       // {
       //   name: "Pricing",
       //   url: "/prices/",
@@ -38,11 +43,11 @@ module.exports = {
         url: "/terms",
         type: "internal",
       },
-      {
-        name: "Product Photography",
-        url: "/product",
-        type: "internal",
-      },
+      // {
+      //   name: "Product Photography",
+      //   url: "/product",
+      //   type: "internal",
+      // },
       {
         name: "About",
         url: "/about",
